@@ -10,4 +10,8 @@ public class Des3Tools {
         System.out.println("pppp===="+str);
     }
 
+    public static void system2Print(String str){
+        System.out.println("pppp22222===="+str);
+    }
+
 }
