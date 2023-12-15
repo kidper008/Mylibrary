@@ -15,7 +15,7 @@ public class Des3Tools {
     }
 
     public static void system3Print(String str){
-        System.out.println("pppp33333===="+str);
+        System.out.println("pppp33333444===="+str);
     }
 
 }
